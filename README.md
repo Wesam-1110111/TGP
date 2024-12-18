@@ -1,5 +1,5 @@
 
-  # Theoretical graduation project - TGP
+  # Theoretical Graduation Project - TGP
   # مشروع التخرج نظري
 
 
