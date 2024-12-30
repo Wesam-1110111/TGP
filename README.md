@@ -1,9 +1,9 @@
 
   # Theoretical Graduation Project - TGP  |  مشروع التخرج نظري + العملي
 
-  ### تحميل المشروع العملي من Google Drive:
-  الإصدار: <img alt="v" src="https://img.shields.io/badge/Version-2.0-blue">  
-  إضغط هنا: [تحميل](https://drive.google.com/file/d/1sN-I-beWpZC4xBUeeq6V0GcjhZhmkSi7/view?usp=sharing)
+  ### تحميل المشروع العملي:
+  الإصدار: <img alt="v" src="https://img.shields.io/badge/Version-2.1.0-blue">  
+  إضغط هنا: [تحميل]([https://drive.google.com/file/d/1sN-I-beWpZC4xBUeeq6V0GcjhZhmkSi7/view?usp=sharing](https://github.com/Wesam-1110111/TGP/archive/refs/heads/main.zip))
   ### أبرز التحديثات:
   1. تعديل إسم المنصة في كل الصفحات.
   2. تغيير شعار المنصة.
