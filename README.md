@@ -10,3 +10,8 @@
   3. إضافة أيقونة المتصفح.
   4. تعديل الـFooter.
   5. إصلاح مشكلة تنزيل وعرض الملخصات.
+
+<hr>
+<div align='center'>
+<h2>قريباً <img alt="v" src="https://img.shields.io/badge/Version-2.1.1-blue">  </h2>
+</div>
