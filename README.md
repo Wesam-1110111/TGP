@@ -4,8 +4,8 @@
   ### تحميل المشروع:
   الإصدار: <img alt="v" src="https://img.shields.io/badge/Version-2.1.1-green">  
   إضغط هنا لـ : [تحميل (العملي + النظري)](https://github.com/Wesam-1110111/TGP/archive/refs/heads/main.zip)  
-  إضغط هنا لـ : [تحميل (العملي)](https://github.com/Wesam-1110111/TGP/archive/refs/heads/main.zip)  
-  إضغط هنا لـ : [تحميل (النظري)](https://github.com/Wesam-1110111/TGP/archive/refs/heads/main.zip)
+  إضغط هنا لـ : [تحميل (العملي)](https://github.com/Wesam-1110111/TGP/raw/refs/heads/main/Ahlia_University.7z?download=)  
+  إضغط هنا لـ : [تحميل (النظري)](https://github.com/Wesam-1110111/TGP/raw/refs/heads/main/file.docx)
 
 <hr>
   
