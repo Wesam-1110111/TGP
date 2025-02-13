@@ -1,15 +1,21 @@
 
-  # Theoretical Graduation Project - TGP  |  مشروع التخرج نظري + العملي
+  # Theoretical Graduation Project - TGP  |  مشروع التخرج النظري + العملي
 
-  ### تحميل المشروع العملي:
-  الإصدار: <img alt="v" src="https://img.shields.io/badge/Version-2.1.1-blue">  
-  إضغط هنا: [تحميل](https://github.com/Wesam-1110111/TGP/archive/refs/heads/main.zip)
+  ### تحميل المشروع:
+  الإصدار: <img alt="v" src="https://img.shields.io/badge/Version-2.1.1-green">  
+  إضغط هنا لـ : [تحميل (العملي + النظري)](https://github.com/Wesam-1110111/TGP/archive/refs/heads/main.zip)  
+  إضغط هنا لـ : [تحميل (العملي)](https://github.com/Wesam-1110111/TGP/archive/refs/heads/main.zip)  
+  إضغط هنا لـ : [تحميل (النظري)](https://github.com/Wesam-1110111/TGP/archive/refs/heads/main.zip)
+
+<hr>
+  
   ### أبرز التحديثات في (العملي):
   1. تعديل إسم المنصة في كل الصفحات.
   2. تغيير شعار المنصة.
   3. إضافة أيقونة المتصفح.
   4. تعديل الـFooter.
   5. إصلاح مشكلة تنزيل وعرض الملخصات.
+  6. إصلاح مشكلة الـ (Post/Get method) في نموذج الإرسال.
 
 <hr>
 
@@ -33,7 +39,10 @@
 </div>
 
 #### العملي:
--  تقليل حجم الملف. 
+-  تقليل حجم الملف.
+-  إصلاح مشكلة اللوحة الرئيسية لعضو هيئة التدريس.
 
 #### النظري:
-- لا يوجد شئ حالياً..
+- حجم الخط من 12 إلى 14.
+- إضافة إقتباس لكل مرجع من المراجع.
+- ...يتبع
