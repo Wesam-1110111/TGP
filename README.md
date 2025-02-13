@@ -2,7 +2,10 @@
   # Theoretical Graduation Project - TGP  |  مشروع التخرج النظري + العملي
 
   ### تحميل المشروع:
-  الإصدار: <img alt="v" src="https://img.shields.io/badge/Version-2.1.1-green">  
+  الإصدار:  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Wesam-1110111/TGP?logo=github)
+
+
+  
   إضغط هنا لـ : [تحميل (العملي + النظري)](https://github.com/Wesam-1110111/TGP/archive/refs/heads/main.zip)  
   إضغط هنا لـ : [تحميل (العملي)](https://github.com/Wesam-1110111/TGP/raw/refs/heads/main/Ahlia_University.7z?download=)  
   إضغط هنا لـ : [تحميل (النظري)](https://github.com/Wesam-1110111/TGP/raw/refs/heads/main/file.docx)
