@@ -40,7 +40,7 @@
 
 <div align='center'>
   
-<h2>قريباً <img alt="v" src="https://img.shields.io/badge/Version-2.2.0-blue">  </h2>
+<h2>قريباً <img alt="v" src="https://img.shields.io/badge/Version-2.3.0-blue">  </h2>
 
 </div>
 
