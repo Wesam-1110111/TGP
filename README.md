@@ -8,7 +8,8 @@
   
   إضغط هنا لـ : [تحميل (العملي + النظري)](https://github.com/Wesam-1110111/TGP/archive/refs/heads/main.zip)  
   إضغط هنا لـ : [تحميل (العملي)](https://github.com/Wesam-1110111/TGP/raw/refs/heads/main/Ahlia_University.7z?download=)  
-  إضغط هنا لـ : [تحميل (النظري)](https://github.com/Wesam-1110111/TGP/raw/refs/heads/main/the%20final%20file.docx)
+  إضغط هنا لـ : [تحميل (النظري)](https://github.com/Wesam-1110111/TGP/raw/refs/heads/main/the%20final%20file.docx)  
+  إضغط هنا لـ : [تحميل (العرض التقديمي)](https://github.com/Wesam-1110111/TGP/raw/refs/heads/main/PowerPoint.pptx)
 
 <hr>
   
